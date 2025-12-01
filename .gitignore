@@ -1,0 +1,11 @@
+# Build directory
+build/
+
+# Cache directory
+.cache/
+
+# CMake directory
+CMakeFiles/
+
+# Compile commands
+compile_commands.json
