@@ -12,8 +12,7 @@ class Problem1 : public Problem {
 public:
   std::string solve() override;
 
-  std::string
-  solve(std::filesystem::path path = "inputs/problem1.txt") override;
+  std::string solve(std::filesystem::path path) override;
 
   Problem1() = default;
   ~Problem1() override {};
