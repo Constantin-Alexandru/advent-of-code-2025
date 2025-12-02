@@ -16,7 +16,7 @@
 					"inherits": "base",
 					"displayName": "Debug Config",
 					"cacheVariables": {
-						"CMAKE_COMPILE_COMMANDS": "ON",
+						"CMAKE_EXPORT_COMPILE_COMMANDS": "ON",
 						"CMAKE_BUILD_TYPE": "Debug"
 					}
 				},
