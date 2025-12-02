@@ -5,7 +5,7 @@ My entry for [Advent of Code 2025](https://adventofcode.com/2025/).
 
 ## Solved
 
-- [ ] [Problem 1](https://adventofcode.com/2025/day/1)
+- [x] [Problem 1](https://adventofcode.com/2025/day/1) (Part 1 + Part 2)
 - [ ] [Problem 2](https://adventofcode.com/2025/day/2)
 - [ ] [Problem 3](https://adventofcode.com/2025/day/3)
 - [ ] [Problem 4](https://adventofcode.com/2025/day/4)
