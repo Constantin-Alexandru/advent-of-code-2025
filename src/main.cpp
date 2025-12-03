@@ -1,4 +1,5 @@
 #include "problem.h"
+#include "problem_set.h"
 #include "problems.h"
 #include <cstring>
 #include <print>
