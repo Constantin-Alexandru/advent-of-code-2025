@@ -4,7 +4,6 @@
 #include <cstdint>
 #include <cstdlib>
 #include <fstream>
-#include <print>
 #include <string>
 
 int can_insert(std::vector<char> digits, char digit) {
